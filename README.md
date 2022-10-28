@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himanshupandeyy
-- 👀 I’m interested in Data analyse
+- 👀 I’m interested in Data Exploration through Excel,SQL,Python,Tableau and apply predictive models on it.
 - 🌱 I’m currently learning Machine Learning,deep learning
-- 💞️ I’m looking to get a job
+- 💞️ I’m looking to get a job in my desired profile.
 - 📫 How to reach me ...You can reach me by email 92pandeyy@gmail.com or whatsapp me on 8527308355
 
 <!---
